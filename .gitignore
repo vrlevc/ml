@@ -2,3 +2,5 @@
 /.vscode
 **/__pycache__
 mit/lab01/tmp.wav
+tmp.wav
+training_checkpoints/my_ckpt.weights.h5
