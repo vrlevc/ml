@@ -6,3 +6,4 @@ tmp.wav
 training_checkpoints/my_ckpt.weights.h5
 cpp/application
 cpp/test_b
+cpp/01/main
